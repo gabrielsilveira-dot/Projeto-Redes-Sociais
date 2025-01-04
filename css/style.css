@@ -44,6 +44,7 @@ iframe#tela {
     left: 20px;
     width: 272px;
     height: 479px;
+    background-size: cover;
     overflow: hidden;
 }
 
