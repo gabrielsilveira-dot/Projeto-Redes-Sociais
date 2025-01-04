@@ -13,13 +13,13 @@
 }
 
 img {
-    width: 100vw;
+    width: 100%;
+    height: auto;
     overflow: hidden;
 }
 
 a{
     width: 99vw;
-    box-sizing: border-box;
     display: block;
     background-color: darkred;
     color: white;
